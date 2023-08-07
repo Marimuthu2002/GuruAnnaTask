@@ -1,0 +1,12 @@
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\bin\Debug\net6.0\CURD_Operation.deps.json
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\bin\Debug\net6.0\CURD_Operation.dll
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\bin\Debug\net6.0\CURD_Operation.pdb
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\obj\Debug\net6.0\CURD_Operation.csproj.AssemblyReference.cache
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\obj\Debug\net6.0\CURD_Operation.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\obj\Debug\net6.0\CURD_Operation.AssemblyInfoInputs.cache
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\obj\Debug\net6.0\CURD_Operation.AssemblyInfo.cs
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\obj\Debug\net6.0\CURD_Operation.csproj.CoreCompileInputs.cache
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\obj\Debug\net6.0\CURD_Operation.dll
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\obj\Debug\net6.0\refint\CURD_Operation.dll
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\obj\Debug\net6.0\CURD_Operation.pdb
+G:\c#\GuruAnnaTask\Mediator_pattern\CURD_Operation\obj\Debug\net6.0\ref\CURD_Operation.dll

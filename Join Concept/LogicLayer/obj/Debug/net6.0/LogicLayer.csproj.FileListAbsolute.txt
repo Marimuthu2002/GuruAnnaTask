@@ -1,0 +1,15 @@
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\bin\Debug\net6.0\LogicLayer.deps.json
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\bin\Debug\net6.0\LogicLayer.dll
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\bin\Debug\net6.0\LogicLayer.pdb
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\bin\Debug\net6.0\Entites.dll
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\bin\Debug\net6.0\Entites.pdb
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\obj\Debug\net6.0\LogicLayer.csproj.AssemblyReference.cache
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\obj\Debug\net6.0\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\obj\Debug\net6.0\LogicLayer.AssemblyInfoInputs.cache
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\obj\Debug\net6.0\LogicLayer.AssemblyInfo.cs
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\obj\Debug\net6.0\LogicLayer.csproj.CoreCompileInputs.cache
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\obj\Debug\net6.0\LogicLayer.csproj.CopyComplete
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\obj\Debug\net6.0\LogicLayer.dll
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\obj\Debug\net6.0\refint\LogicLayer.dll
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\obj\Debug\net6.0\LogicLayer.pdb
+G:\c#\GuruAnnaTask\Join Concept\LogicLayer\obj\Debug\net6.0\ref\LogicLayer.dll

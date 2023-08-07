@@ -1,0 +1,14 @@
+G:\c#\GuruAnnaTask\Join Concept\Entites\bin\Debug\net6.0\Entites.deps.json
+G:\c#\GuruAnnaTask\Join Concept\Entites\bin\Debug\net6.0\Entites.runtimeconfig.json
+G:\c#\GuruAnnaTask\Join Concept\Entites\bin\Debug\net6.0\Entites.dll
+G:\c#\GuruAnnaTask\Join Concept\Entites\bin\Debug\net6.0\Entites.pdb
+G:\c#\GuruAnnaTask\Join Concept\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+G:\c#\GuruAnnaTask\Join Concept\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\GuruAnnaTask\Join Concept\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+G:\c#\GuruAnnaTask\Join Concept\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+G:\c#\GuruAnnaTask\Join Concept\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+G:\c#\GuruAnnaTask\Join Concept\Entites\obj\Debug\net6.0\Entites.dll
+G:\c#\GuruAnnaTask\Join Concept\Entites\obj\Debug\net6.0\refint\Entites.dll
+G:\c#\GuruAnnaTask\Join Concept\Entites\obj\Debug\net6.0\Entites.pdb
+G:\c#\GuruAnnaTask\Join Concept\Entites\obj\Debug\net6.0\Entites.genruntimeconfig.cache
+G:\c#\GuruAnnaTask\Join Concept\Entites\obj\Debug\net6.0\ref\Entites.dll
