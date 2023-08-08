@@ -10,5 +10,9 @@ namespace CURD_Operation.Repositry
     public interface IEmployee
     {
         public Task<List<Departments>> GetEmploye();
+        public Task<Departments> AddStud(Departments stud);
+        public Task<int> UpdateStud(Departments stud);
+        public Task<Departments> GetEmployeeId(int employeeId);
+        public Task<int> DeleteEmployee(int studId);
     }
 }
